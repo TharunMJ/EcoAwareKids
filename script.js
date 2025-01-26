@@ -1,0 +1,1 @@
+console.log("Eco Aware Kids website is running!");
